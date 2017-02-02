@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onCancel() {
-                    txtView.setText("Login cancelled");
+                    txtView.setText("Login cancell");
                 }
 
                 @Override
@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
 
                 }
             });
+
+        System.out.println("Testing github");
 
     }
 
