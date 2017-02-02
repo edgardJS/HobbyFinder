@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
 
-        System.out.println("Testing github");
+        System.out.println("Testing GitHub");
 
     }
 
